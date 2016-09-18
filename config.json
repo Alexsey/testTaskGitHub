@@ -1,0 +1,12 @@
+{
+  "port": 3000,
+  "mongoUrl": "mongodb://localhost:27017",
+  "mongoBase": "gitHubTestTask",
+  "gitHubConcurrency": 5,
+  "cleanUpComments": false,
+  "cleanUpCache": true,
+  "cacheTTL": 300,
+  "githubBaseUrl": "https://api.github.com",
+  "user": "",
+  "pass": ""
+}
